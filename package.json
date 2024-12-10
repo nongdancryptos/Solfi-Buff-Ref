@@ -1,0 +1,17 @@
+{
+  "name": "solfi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.8",
+    "proxy-chain": "^2.5.6",
+    "puppeteer": "^23.10.0"
+  }
+}
